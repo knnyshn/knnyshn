@@ -5,6 +5,7 @@ Hello strangers!
 Feel free to contact me or view my stuff:
 
 knnyshn@gmail.com
+
 www.linkedin.com/in/knnyshn/
 
 
