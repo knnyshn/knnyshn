@@ -8,7 +8,7 @@ JavaScript, React, HTML, CSS, Node.js, Express, Python, PostgreSQL, MongoDB, Mon
 Feel free to contact me or view my stuff:
 
 - knnyshn@gmail.com
-- www.kenshin.dev
+- https://kennyshin-portfolio.web.app/
 - www.linkedin.com/in/knnyshn/
 
 
