@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/SzltYlf)](github.com/kennyshn)
+[![MasterHead](https://i.imgur.com/SzltYlf.png)](github.com/kennyshn)
 
 
 Tools and Languages: 
