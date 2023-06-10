@@ -1,5 +1,4 @@
-[![MasterHead](https://i.imgur.com/SzltYlf.png)](github.com/kennyshn)
-
+Hey, I'm Kenny Shin and I am a full stack developer that loves the creativity of front-end and the rigid structure of back-end. I am more experienced with front-end although I wish to learn more and dive deeper into AI and back-end languages/tools. In my non-coding time I play bass, sound design, and go out to shows. 
 
 Tools and Languages: 
 JavaScript, React, HTML, CSS, Node.js, Express, Python, PostgreSQL, MongoDB, Mongoose
